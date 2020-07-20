@@ -1,0 +1,19 @@
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#deloisa {
+    width: 25vw;
+}
+
+body {
+    background-color: #1e1e1e;
+    font-family: 'Adamina', serif;
+    color: #D3AC2B;
+    text-align: center;
+}
