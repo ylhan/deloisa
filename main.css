@@ -11,10 +11,23 @@
 	width: 25vw;
 }
 
+#fixed {
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	margin: 0 0.5em auto 0;
+	text-decoration: none; 
+}
+
+a {
+	color: inherit; 
+	text-decoration: inherit;
+}
+
 body {
 	background-color: #333D51;
 	animation: bgColor 10s infinite;
-	font-family: 'Adamina', serif;
+	font-family: 'CMU Classical Serif';
 	color: #D3AC2B;
 	text-align: center;
 }
