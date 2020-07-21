@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'CMU Classical Serif';
+	src: url("cmunci.otf") format("opentype");
+}
+
 .container {
 	position: absolute;
 	top: 50%;
